@@ -1,0 +1,5 @@
+zhangsan 123456 8402
+lisi 123456 203
+wangwu      123456      2000
+zhaoliu     123456      500
+tianqi      123456      1500
